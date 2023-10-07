@@ -3,7 +3,7 @@ title: "PLCY380 Change Maker Challenge"
 subtitle: "Phase 1 Complete"
 date: "2023-09-30"
 lastmod: "2023-10-04"
-slug: "changemaker"
+head: "changemaker"
 type: "folder"
 ---
 

@@ -3,7 +3,7 @@ title: "PuyoPuyoJS"
 subtitle: "Online (?) multiplayer web game"
 date: "2023-07-30"
 lastmod: "2023-09-28"
-slug: "puyo"
+head: "puyo"
 type: "unfinished"
 ---
 # Aethere quamvis ipsos frondentis currum accedere adeat

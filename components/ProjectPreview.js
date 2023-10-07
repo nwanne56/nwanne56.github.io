@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const ProjectPreview = (props) => {
     return (
-        <Link href={`/projects/${props.slug}`}>
+        <Link href={`/projects/${props.head}`}>
             <div className="border-neutral-300 border-2 p-2 rounded-md shadow-sm hover:shadow-md hover:-translate-y-1">
                 <div className="flex width-max gap-2">
                     {props.type == "unfinished" && 

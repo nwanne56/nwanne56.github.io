@@ -23,7 +23,7 @@ function Home() {
   ));
 
   const projectPreviews = projectData.map((project) => (
-    <ProjectPreview key={project.slug} {...project} />
+    <ProjectPreview key={project.head} {...project} />
   ));
 
   return (
