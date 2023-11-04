@@ -1,6 +1,6 @@
 ---
 title: "PLCY380 Change Maker Challenge"
-subtitle: "Phase 1 Complete"
+subtitle: "Phases 1 & 2 Complete"
 date: "2023-09-30"
 lastmod: "2023-10-04"
 head: "changemaker"
@@ -12,6 +12,8 @@ type: "folder"
         1. [Challenge 3](#ch3)
         2. [Challenge 4](#ch3)
 2. [Phase 2](#phase2)
+        1. [Challenge 6](#ch6)
+        2. [Challenge 7](#ch7)
 3. [Phase 3](#phase3)
 
 
@@ -165,7 +167,172 @@ What is being done to address the differences in experience for homeless people?
 
 ## Phase 2<a name="phase2"></a>
 
-**TBD**
+In general, this phase expanded my range of knowledged and invited me to ask more questions about the causes of homelessness, how we address it, and who it affects.
+
+### Challenge 5: Attend an Event <a name="ch5"></a>
+
+<center>**Find and attend an in-person or virtual event related to your issue. Think of an “event” as something you attend that may have a large audience. For example, a workshop, a seminar, a conference, a panel, etc.**</center>
+
+For this challenge, I attended a <a href="https://www.youtube.com/watch?v=ZoNQAdX9jyo">virtual seminar</a> on the cause of homelessness.
+
+<img className="w-screen-md" src="/images/ch5-1.png">
+<img className="w-screen-md" src="/images/ch5-2.png">
+<img className="w-screen-md" src="/images/ch5-3.png">
+
+The main speakers for this event were Gregg Colburn, an assistant professor of real estate in the University of Washington's College of Built Environments. Ph.D. in Public Affairs, Humphrey School of Public Affairs, University of Minnesota, and Lyndia Downie, president and CEO of Pine Street Inn.
+
+The purpose of the event was to promote a book by Dr. Colburn called "Homelessness is a Housing Problem". There was a presentation and a conversation between Dr. Colburn and Ms. Downie, with the presentation statistically showing that the most commonly believed factors that cause homelessness are generally unrelated.
+
+According to the 2019 Point-in-Time homelessness census (Seattle/King County), homeless people said that job loss led to homelessness over 20% of the time, with Alcohol/Drug Use and eviction following up next at ~15%. There was an analogy made that I think sums up the problem pretty well.
+
+> *Ten friends decide to play a game of musical chairs and arrange ten chairs in a circle. A leader begins the game by turning on the music, and everyone begins to walk in a circle inside the chairs. The leader removes one chair, stops the music, and the ten friends scramble to find a spot to sit - leaving one person without a chair. The loser, Mike, was on crutches after spraining his ankle. Given his condition, he was unable to move quickly enough to find a chair during the scramble that ensued.*
+
+> *What caused Mike's chairlessness?*
+
+The following slides were all about per capita rates of homelessness in certain cities and counties, and potential explanations. This part is what I found interesting - multiple explanations for poverty had no statistical correlation based on either city or county. In general, ℝ² was less than .2 for each correlation.
+
+This was true for individual and local explanations.
+
+The Point-in-Time (PIT) count is a count of sheltered and unsheltered people experiencing homelessness on a single night. This count is conducted annually in January by Continuums of Care (CoCs) as required by the U.S. Department of Housing and Urban Development (HUD).
+
+The PIT count per capita for the homeless would be the total PIT count divided by the total population of the area. This gives a per-person ratio of homelessness in that area.
+
+For example, if a city has a PIT count of 500 and a population of 50,000, the PIT count per capita would be 500/50,000 = 0.01. This means that for every 100 people in that city, there is 1 person experiencing homelessness.
+
+1. A. % income below poverty level vs. PIT count (per capital)
+
+While there's no correlation between the two, being poor in affluent areas is harder than being poor in a poor area.
+2. B. Rate of serious mental illness vs. PIT count (per capital)
+3. C. Rate of substance use disorder vs. PIT count (per capital)
+
+People do drugs all over the US.
+4. D. Race (percent Black/African American) vs. PIT count (per capital)
+
+I was personally surprised by the lack of correlation in race, but as Dr. Colburn says, 
+
+*“Race doesn’t cause homelessness, racism causes homelessness”*.
+
+
+Locally:
+1. A. Average temperature in January vs. indexed homelessness
+
+This one didn't make sense to me at first, but the point was that certain people believe that homelessness is less common in colder states.
+2. B. Benefit/rent ratio vs. family PIT count (per capita)
+
+Maximum welfare benefit divided by median two-bedroom rent.
+This one also confused me at first - the idea is that people believe that pricing people out of shelter is unsustainable at all levels.
+3. C. Sample cities were governed by Democrats 85% of the time. Not all Democratic cities have problems with homelessness though.
+
+
+#### What was suggested?
+
+The suggestions were to create operating investment funds for housing support, maintenance, services, and housing construction. For areas where housing is hard to create, changes to regulations and land use policy are needed.
+
+I agree with the general sentiment that diagnosing homelessness as a problem with the homeless themselves is a method of undermining solutions, and that we need to understand how homelessness works across the US before we create wide-reaching solutions.
+
+￼
+#### Post-slide Conversation
+The discussion on homelessness highlighted that it’s an issue affecting multiple identities. It’s not just the visibly mentally ill, who make up about 25% of the homeless population, but also includes individuals who may be employed but living out of their cars, and women and children in shelters.
+
+The musical chairs analogy was used to illustrate the lack of sufficient housing opportunities for different groups of people. The problem persists even when encampments are cleared, indicating that the issue is not just about the visible presence of homelessness, but a deeper systemic issue.
+
+The discussion pointed out recent issues with rental affordability, prices moving off the income spectrum and a lack of lending options for those in need. In addition, the “Housing-first” approach was discussed as a potential solution, emphasizing that it should involve more than just providing housing. It should also include support systems for the individuals. However, the failures in addressing homelessness might be to its implementation and not the model itself.
+
+The conversation ended with the statement: 
+
+<center>*“Homelessness is a problem we can solve.”*<center>
+
+However, it requires addressing the mismatch in supply and demand for housing, which isn't just the fault of institutions - it's a broader societal issue.
+
+## Reflection Prompts
+
+
+`What did you learn about your issue from this challenge?`
+
+This seminar provided me with a deeper understanding of homelessness, emphasizing that it’s a systemic issue rather than an individual or local one. It challenged a lot of my misconceptions about the causes of homelessness and highlighted the need for comprehensive solutions. I was surprised to hear that a lot of the common causes for homelessness are statistically not the root cause.
+
+`What was successful or least successful? Why?`
+
+This event was able to remove some of the "more likely" causes of homelessness, and even gave a reasonable set of policies that could help in preventing it. However, I feel like it didn't adequately address the stages of homelessness people face before they they actually lack shelter. One thing that could have been explored further is the role of individual communities in addressing homelessness. Even though the seminar focused on systemic issues and policy changes, the role of local communities, grassroots initiatives, and nonprofit organizations that address homelessness could have been discussed more.
+
+`What might you do differently?`
+
+In hindsight, I could have prepared questions or discussion points could to delve deeper into other during the seminar, like other true correlations between the environment and homelessness. Just like I said, I could have asked about community initiatives or local policies in Seattle to get additional insights.
+
+`How will this challenge help you moving forward?`
+
+Understanding the systemic nature of homelessness, the misconceptions surrounding it, and the potential solutions discussed during the seminar will be useful regardless of the challenge option I choose for Phase 3, and it should help me when revisiting some of the challenges from Phase 1, especially the interviews. I really want to do meaningful advocacy for Phase 3, and I think being able to provide something useful to the public to think about will help in addressing the problem.
+
+`What questions do you have after completing this challenge?`
+
+How can the “Housing-first” approach be effectively implemented on a large scale? What are the potential challenges? Has academia done its part in tackling homelessness in the same way we tackled COVID? (This question was explicitly asked by a member of the in-person group)
+           
+
+### Challenge 6: Attend a Meeting <a name="ch6"></a>
+
+<center>**Find and attend an in-person or virtual meeting related to your issue. Think of an “meeting” as a convening of a group which is coming together to discuss, take action, brief each other, etc. This is slightly different from an “event” in that a meeting typically has a designated purpose or call to action. Meetings can include student organization meetings, community meetings, a city council, school board, or county commission meeting (of which you can find by looking at the website for your state, district, city, or county).**</center>
+
+For this challenge, I attended a 
+<a href="https://honors.umd.edu/event/2023/college-park-city-council-candidate-town-hall/">town hall meeting</a> for the public to meet and ask questions to the College Park mayor and council candidates. (October 30th, at Tawes Hall on the College Park campus) Before the meeting, I submitted a question asking the council candidates to expand on their plans to improve affordable housing and mental health in the area, and to see if they had any ideas as far as communicating with residents. Unfortunately, not every candidate was able to attend.
+
+<img className="w-screen-md" src="/images/IMG_6274.png">
+<img className="w-screen-md" src="/images/IMG_6265.png">
+
+
+#### The Council Candidates
+
+Before the actual Q&A session, I had the chance to talk to a few of the candidates, specifically Jacob Hernandez and Bryan Haddad.
+I asked them basically to expand on what I had read in their bios concerning effective communication and affordable housing, and what they said was that they both wanted to focus on getting the vacancy rate down through taxes and developer communication.   
+
+During the meeting, I was able to hear specific plans and goals from each of the delegates. Since my focus was mainly to understand more about what may or may not be effective in College Park and nationally, I'll put my key takeaways in paragraph form instead, so that I can explain what was important to me as I listened.
+
+There were three questions asked to all the delegates, with each delegate being given a short amount of time (~2 minutes) to answer.
+
+1. What are your plans for addressing the state of mental health in College Park?
+
+There's been a discussion recently for creating a police force in College Park, and the candidates who spoke about it in relation to the policing of mentally ill individuals noted that it would indirectly affect the ability of residents to pay their taxes. There were a few mentions of increasing support for women and the non-native population, especially Hispanic people in College Park, as resources for them were even more limited than for the general population.
+
+One of the candidates, Suan Whitney, explicitly discussed a partnership with an existing city organization, Care Solace. Following up on that, Brian Roan also discussed making College Park a place where businesses and nonprofits feel comfortable staying in College Park and helping the community.
+
+2. How will you address affordability of life in the city?
+
+A core part of the respsonse to this question was partnering with developers to create higher home ownership rates. A comment here that stuck with me was that the increasing prices in the area (besides inflation) indicate that goods and services are valued by the community, but that affordability is still something for the city and its legislation to focus on. I want to talk a little more about this in Challenge 7.
+
+All of the candidates drove home the point that homelessness and shelter affordability is dependent on the city's engagement with community members in development projects, and that constant feedback is required both in terms of voice and in terms of data.
+
+One of my classmates was there to ask about how students are currently affected by the cost of rent in the area. One of the current incumbents, Stuart Adams, talked about a student housing pilot program to waive the first month's rent for students alongside application fees.
+
+Across the board, the candidates also discussed increasing their budget from the government to address food insecurity, poverty, and housing, with ideas such as government sponsored food stores, comprehensive rental/low-income unit programs, financial literacy programs/workshops, homeownership grants and classes, and data tracking.
+
+#### The Mayor
+
+The mayor was also given an opportunity to answer some questions from the general public. While he didn't say much that was related to my questions for the candidates, he did make a few points I think are worth sharing here.
+
+1. He believes that UMD should be seen in College Park (and PG County more generally) as a source of power for the community. There was a strong focus on improving the relationship between the university and the surrounding area.
+2. He believes that College Park faces some issues caused by a lack of information dissemination. Many people have questions about what social services are provided, and can't find or navigate the answers, or even worse - don't know what questions to ask.
+
+## Reflection Prompts
+
+`What did you learn about your issue from this challenge?`
+
+I learned about the practical solutions that real policymakers and advocates are making in order to address mental health, food insecurity, and homelessness in my local area. These are complex issues that require a targeted and multifaceted approach. The council candidates emphasized the importance of community engagement and the need for constant feedback. I also learned about various strategies to address these issues, and related fields to look into while doing research.
+
+`What was successful or least successful? Why?`
+
+From my perspective, the most successful part of this challenge was the opportunity to engage directly with the council candidates and hear their plans. This gave me a deeper understanding of the local issues the city faces. The least successful aspect was that not every candidate was able to attend the meeting, which meant the questions I had for certain candidates couldn't be asked. 
+
+`What might you do differently?`
+
+If I had the chance to redo this, I would have asked more questions directly to the candidates and the mayor. I'm considering reaching out to the candidates who were not able to attend the meeting to understand their viewpoints.
+
+`How will this challenge help you moving forward?`
+
+I think that understanding the dynamics of local government and community engagement in addressing social issues will help me for Phase 3. Whether I choose to fundraise, donate, volunteer, advocate, or any of the other challenge options, the knowledge I’ve gained from this town hall meeting will affect my approach and hopefully increase my impact .
+
+`What questions do you have after completing this challenge?`
+After attending the meeting, I’m curious about the effectiveness of the strategies. How effective are vacancy taxes in reducing homelessness and improving shelter affordability, and how effective are microgrants? I would like to explore these questions further to understand the potential impact of these strategies.
+           
+### Challenge 7: Create Your Own <a name="ch7"></a>
 
 ## Phase 3<a name="phase3"></a>
 
