@@ -1,8 +1,8 @@
 ---
 title: "PLCY380 Change Maker Challenge"
-subtitle: "Phases 1 & 2 Complete"
+subtitle: "Phases 1, 2 & 3 Complete"
 date: "2023-09-30"
-lastmod: "2023-10-04"
+lastmod: "2023-11-29"
 head: "changemaker"
 type: "folder"
 ---
@@ -12,9 +12,15 @@ type: "folder"
         1. [Challenge 3](#ch3)
         2. [Challenge 4](#ch3)
 2. [Phase 2](#phase2)
-        1. [Challenge 6](#ch6)
-        2. [Challenge 7](#ch7)
+        1. [Challenge 5](#ch5)
+        2. [Challenge 6](#ch6)
+        3. [Challenge 7](#ch7)
 3. [Phase 3](#phase3)
+        1. [Challenge 8](#ch8)
+        2. [Challenge 9](#ch9)
+        3. [Challenge 10](#ch10)
+        4. [Challenge 11](#ch11)
+        5. [Challenge 12](#ch12)
 
 
 ## Phase 1<a name="phase1"></a>
@@ -330,10 +336,174 @@ If I had the chance to redo this, I would have asked more questions directly to 
 I think that understanding the dynamics of local government and community engagement in addressing social issues will help me for Phase 3. Whether I choose to fundraise, donate, volunteer, advocate, or any of the other challenge options, the knowledge I’ve gained from this town hall meeting will affect my approach and hopefully increase my impact .
 
 `What questions do you have after completing this challenge?`
+
 After attending the meeting, I’m curious about the effectiveness of the strategies. How effective are vacancy taxes in reducing homelessness and improving shelter affordability, and how effective are microgrants? I would like to explore these questions further to understand the potential impact of these strategies.
            
 ### Challenge 7: Create Your Own <a name="ch7"></a>
 
+This is kind of a repeat of Challenge 5, but I attended another seminar on homelessness, this time led by someone who was previously homeless. 
+
+Mark Miller, Reuters (Moderator)
+Elizabeth Chen, Massachusetts Secretary of Elder Affairs
+Robert Kramer, Co-founder and Strategic Advisor, National Investment Center for Seniors Housing & Care (NIC)
+Jennifer Molinsky, Project Director, Housing an Aging Society Program, Harvard Joint Center for Housing Studies
+Meghan Rose, General Counsel and Chief Government Affairs Officer, LeadingAge California
+
+
+<img className="w-screen-md" src="/images/ch7-1.png">
+
+This one was about the struggles that older homeless citizens will face in the coming years and have faced in previous ones. The key statistics: over the next decade, the number of US citizens over the age of 75 will increase by 45 percent, from 17 million to around 25 million. That growth is widespread, across urban, suburban, and rural communities, and heaviest among the baby boomers (who will begin entering their 80s).  
+
+The first few minutes were spend analyzing a recent report made by the Harvard Joint Center for Housing Studies. One key point that I've heard a lot from showing up to these events and asking around in-person is that we frequently lack the resources to accomodate the needs of multiple types of indiviuals across the US. Since the number of homeless older people has been rising, the need for affordable housing will continue to grow, because of the increasing number of older adults, and because of increased income disparities and the challenge of providing both housing and healthcare for them. In general, the people most likely to need care and social services when they are older are people those with low incomes.
+
+<img className="w-screen-md" src="/images/ch7-2.png">
+
+Most of our federal programs only accomodate about a third of the housholds in the US, and this data only includes households without children/other dependents. Long-term care services cost on average $40,000 per year, and the majority of adults over 70 will need them at some point - and in general assisted living costs around $63,000 per year.
+
+On top of all this was a conversation between the moderators and a previously unhoused citizen who commented on the difficulty of not only finding but navigating through the resources available to her. Different national departments, like the ones for housing and health, plus language barriers, varying eligibility criteria, and rules can make the process of finding housing or support complex and challenging.
+
+`What did you learn about your issue from this challenge?`
+
+I learned about the complexities involved in addressing this issue, such as the need for affordable housing and healthcare, and the difficulties in navigating available resources. It's one thing to deal with the problems most homeless people face, and another one to deal with the problems that aging adults face, but addressing the combination of both requires us to look at the way that we treat older adults. We don't encourage healthy aging - the debate over supporting Medicaid and Medicare in the last few years is proof of this. 
+
+My key takeaway was a quote saying that homelessness doesn't start when you have no shelter, but when you start the path to missed bills, selling personal items, and moving to smaller locations to save money. The last few months have affected the way I see homelessness, but that specific quote was what put the pieces together for me. 
+
+`What was successful or least successful? Why?`
+
+The most successful part of this was gaining firsthand insights from a previously unhoused citizen, and learning more about a specific set of homeless individuals. It provided a real-world perspective that I didn't really get from just listening to people share their stories. However, I felt the event could have been more successful if there were more discussions on actionable solutions and examples of times when solutions helped people in similar cases.
+
+`What might you do differently?`
+
+If I had the chance to redo this challenge, I would have prepared some questions beforehand to engage more actively during the meeting. I'm not sure if there was explicit time for it, but I would have probably emailed one of the speakers beforehand so that I could see if I could ask about those actionable solutions. 
+
+`How will this challenge help you moving forward?`
+
+This challenge has inspired me to look for organizations that address the needs of specific subsets of homeless individuals, and to see what other marginalized communities. I'm interested in seeing where I can make a difference, such as volunteering or working with organizations that address 'specific types" of homelessness.
+
+`What questions do you have after completing this challenge?`
+
+What does accessibility look like for aging adults? Does focusing on decreasing the cost of Medicaid and Medicare actually affect the unhoused, or does working on solutions to problems commonly faced by older citizens just slow the rate of homelessness in those populations?
+I'm also interested in seeing what advocacy looks like for these groups, and have been looking at the organizations represented in this talk, including LeadingAge California.
+
+
 ## Phase 3<a name="phase3"></a>
 
-**TBD**
+### Challenge 8: Fundraising Challenge <a name="ch8"></a>
+
+<center>**Identify an organization you would like to make a donation to that focuses on your issue. Collect donations by writing and sending a donation letter to family, friends, or classmates and/or plan (or participate) in a fundraising event.**</center>
+
+I wanted to do something a little bigger than just telling my family and friends about an organization so that it would have a little more impact. For about the last three years, I've been working alongside an internet music label called <a href="https://www.dismissyourself.com/#/">Dismiss Yourself</a>, helping them with analytics, and I suggested to the owner of the label, Tyler, that we take advantage of one of our streaming services to support the <a href="https://nationalhomeless.org">National Coalition for the Homeless</a>, which provides  access to emergency assistance programs that help locals with healthcare, food, and housing. Essentially, the streaming service Bandcamp provides us with a base of 100 free music download keys to share to our supporters, and because of sales, we're sitting on around 100k. My idea was to have our Youtube subscribers, Twitter followers, and Discord members show proof of donation in return for free keys for our next few releases (with the artist's permission, ofc). This one's unfortunately not done yet (outside of asking my friends and family to donate to the Coalition) due to poor planning - we just started looking for other companies to write up contracts so that we can create more official ways of organizing future releases so, nothing new is coming out for the time being.
+
+<img className="w-screen-md" src="/images/ch8-1.png">
+
+
+### Challenge 9: Volunteer Challenge <a name="ch9"></a>
+
+<center>**Participate in a community service event organized or hosted by another organization.**</center>
+
+For the majority of my life I've been volunteering at my old church's food pantry. I took this semester and the Thanksgiving break to go back and help out during peak hours. A lot of families come in to get Thanksgiving items, and since nobody likes going into the freezer where all the cheese, turkeys, and other meats are stored, I brought a heavy coat, a few friends, and my brother.
+
+<img className="w-screen-md" src="/images/ch9-3.png">
+
+<img className="w-screen-md" src="/images/ch9-1.png">
+
+
+I also took this time to interview the Director of Food Services, Mary Kay Coughlan, who organizes the schedules and relationships with other businesses in the area. She is responsible for running the food pantry, organizing volunteer hours, expansion, and more. She also performs tasks I didn’t expect, like looking for grant money and discussing payment with local food suppliers. When I asked her what motivated her, she explained that her reasoning for being so involved with the pantry was due to a personal circumstance that had affected her significantly. Due to poor management in her husband’s payroll administration, their family income and saved funds were falling, and they had to take out multiple loans in order to feed themselves. Mary Kay told me that she wishes she had known about the support that food pantries and other local organizations provided, and that now she wants to give make sure that people in our area know about those resources, even if they don’t use them.
+
+<img className="w-screen-md" src="/images/ch9-2.png">
+
+
+### Challenge 10: Advocacy Challenge <a name="ch10"></a> 
+
+<center>**Lobby a public or elected official on a particular issue or policy via email, letter, or phone.**</center>
+
+Thanks to the NAEH, I was able to find my local congresspeople (Senators Ben Cardin and Chris Van Hollen, alongside Representative Andy Harris) and send letters to them about supporting the Housing ACCESS Act, and opposing the amendment to cut funding for programs that decrease homelessness.
+
+#### The content of the Housing ACCESS Act letter to the senators:
+
+> *Support the Housing ACCESS Act*
+
+> *Dear Senators Ben Cardin and Chris Van Hollen,*
+
+> *I urge you to cosponsor the Housing ACCESS Act.*
+ 
+> *In my experiences supporting this community I have witnessed firsthand the pressing need for comprehensive solutions to address homelessness. The Housing ACCESS Act represents a significant step towards providing essential support and resources to those in our community who are most vulnerable and in need of stable housing. This act would greatly benefit people experiencing homelessness in my community - your district.*
+
+> *Creating supportive housing for people with extremely low incomes who have disabilities and/or complex health challenges requires both housing assistance/rental subsidies and tenancy support services. These critical resources help clients find affordable rental units, understand their rights of tenancy, address issues with landlords and fellow tenants, and make connections to other services and amenities to thrive in their communities.* 
+> *However, complex and overlapping regulations for housing and services can stall the creation of supportive housing. Recognition of tenancy support services as a Medicaid-covered service has the potential to significantly increase the number of people who can benefit from supportive housing, but making the administrative transition to a Medicaid model can be challenging for local homeless services organizations. And we know too many providers are experiencing significant staff turnover and challenges with high caseloads because funding levels are not commensurate with the cost of delivering services.*
+> *The Housing ACCESS Act would do two important things:*
+> *1. It would align federal and state housing and health care resources. Within one year of enactment, the Secretary of Health and Human Services (HHS), in consultation with the Secretaries of Housing and Urban Development and Treasury, would issue guidance to state Medicaid agencies, public housing agencies, Continuums of Care, and housing finance agencies about how to serve people in need of housing and services in an integrated manner.*
+> *Specifically, the guidance would help these agencies align their eligibility criteria and eligibility determination processes to ensure people are receiving both housing and services through the simplest eligibility process possible. If a jurisdiction implements this through partnership among multiple agencies, there would be a crosswalk of eligibility criteria, and each participating partner would ensure that their individual criteria are accounted for. For example, housing developments financed with Low Income Housing Tax Credits could house anyone who is receiving Medicaid housing supports.*
+> *2. It would clarify how federal funds can be used to support local homeless services providers in building their infrastructure to seek Medicaid reimbursement. Billing Medicaid requires financial systems and information technology capacity that most homeless service providers don’t have yet. Providers need startup capital to build their administrative capabilities until Medicaid reimbursements begin flowing in several months later. The Housing ACCESS Act would encourage providers to seek reimbursement for supportive housing services from state Medicaid programs by requiring HHS to explain how providers may receive such reimbursement, and clarifying which federal funds can be used for provider capacity-building grants.*
+> *Importantly, the Housing ACCESS Act has minimal costs and does not require new policies and new programs. Moreover, the legislation would not just serve people experiencing homelessness; other people with extremely low incomes and acute health care needs would also benefit, including people experiencing unnecessarily institutionalization, exiting the justice system, and cycling between licensed care settings and the streets.*
+> *Thanks for your consideration. Please tell me whether you will cosponsor the Housing ACCESS Act.*
+> *Sincerely, [me]*
+
+<img className="w-screen-md" src="/images/ch10-1.png">
+
+#### The content of the letter to our representative about the funding cuts:
+
+> *Oppose House of Representatives' Amendments to Cut Funding and Increase Homelessness*
+
+> *Dear Representative Andy Harris,*
+
+> *The last thing the House should do is impose severe cuts on the Department of Housing and Urban Development (HUD), its affordable housing programs, or its homelessness programs. The Senate’s FY24 Transportation-HUD Appropriations Bill would increase funding for Homeless Assistance Grants by $275 million, which would allow more people experiencing unsheltered homelessness to be brought inside. The Senate’s proposed increase in funding for Tenant Based Rental Assistance to $31.7 billion would help more low-income families to avoid homelessness.*
+> *The House should follow the Senate’s bipartisan example and reject amendments that have been filed that would reduce HUD funding to FY19 levels and another by almost $5 billion. The House should also reject amendments that would single out individual programs for steep cuts—including reductions in rental assistance and fair housing back to FY19 levels, a reduction of 50% in Community Development Block Grants, and a 100% cut in Housing Opportunities for Persons With AIDS.*
+> *The Alliance has singled out two amendments which would increase homelessness among vulnerable groups. One has already been considered out of order, and will not face a floor vote. The other would impose punitive and unnecessary requirements on people assisted by HUD; it is still in play and deserve your strong opposition.*
+> *Representative Ralph Norman (R-SC) has filed an amendment (13) to prevent implementation of the Equal Access (“Equal Access in Accordance with an Individual’s Gender Identity in Community Planning and Development Programs”) rule for shelter and services.*  
+> *Access to housing—to shelter—is a basic, fundamental necessity. LGBTQ youth are more than twice as likely to experience homelessness than their non-LGBTQ peers, and Black LGBTQ youth have the highest rates of youth homelessness. Furthermore, 1 in 5 transgender people will experience homelessness in their lifetime. In allowing providers to discriminate, the Norman amendment would result in higher rates of homelessness among LGBTQ youth and transgender people. The Equal Access Rule and related guidance give service providers the information they need to effectively serve transgender people, in addition to their other clients, and provides a modicum of protection for LGBTQ people at their most vulnerable.*
+> *In addition to voting against the Norman (13) amendment, I urge you to oppose amendments that would prevent HUD from implementing its Affirmatively Furthering Fair Housing rule, impose drug testing, deprive non-citizens of benefits, and deny financial assistance to anyone able-bodied between the ages of 21 and 59.*
+
+> *Thanks for your consideration. I look forward to following your votes on these amendments.*
+
+> *Sincerely, [me]*
+
+<img className="w-screen-md" src="/images/ch10-2.png">
+
+
+### Challenge 11: Purchase Challenge <a name="ch11"></a> 
+
+<center>**Purchase a new (aka, not something you already own) product that identifies itself as one which directly benefits a particular cause or nonprofit organization (i.e. part of all of the proceeds from the purchase are directed to a cause or nonprofit organization). For this particular challenge, in your written reflection, in addition to the three prompts, identify specifically how much money is donated, how the money is used, and what the organization does.**</center>
+
+To complete this challenge, I bought a few Christmas cards and a bracelet, and both products support the <a href="https://endhomelessness.org">National Alliance to End Homelessness</a>. The NAEH collects its own data to find solutions to prevent homelessness. They work alongside federal and local organizations to create those solutions. They say they focus on policy implementation, which sounds like they focus primarily on lobbying, data collection, and public outreach to increase our knowledge of which policies and policymakers to support. They also have a division dedicated to training homeless service organizations in being more effective, in creating systems, solving problems, and working directly alongside unhoused indiviuals.
+
+<img className="w-screen-md" src="/images/ch11-1.png">
+
+[<small>Something interesting I found about these purchases is in the reflection responses.</small>](#note1)
+<img className="w-screen-md" src="/images/ch11-2.png">
+
+
+<img className="w-screen-md" src="/images/ch11-3.png">
+<small>Don't have the screenshot here, but 10% of the purchase goes towards the NAEH.</small>
+<img className="w-screen-md" src="/images/ch11-4.png">
+
+
+### Challenge 12: Choose Your Own Challenge <a name="ch11"></a>  
+
+<center>**Create your own! Make sure to review and approve with Professor Stillwell first.**</center>
+
+For this challenge, I created a reusable donation button meant to be placed on the front of websites. The idea was pretty simple - I just want people to have a very low commitment way of donating to an organization of my choice.
+
+Currently all it does is allow you to donate to a GoFundMe of my choice, but I want to set it up to allow you to send money through Stripe to an account that forwards the money to any nonprofit of my choice. 
+
+Doing this through my own website was a bit difficult, since the whole thing is run on a server and not locally. There's a working client-side version in the components folder (donationButton.js and minif.js) of this repository on Github.
+
+`What did you learn about your issue from this challenge?`
+
+Mrs. Coughlan's story affected me because it helped ground me a little bit. I see that the most important part of community building is having community needs in mind. I was also able to look at how nonprofits use their donations, look at media reports to see the impact of different organizations, and learn about different local policies affecting the homeless in my state. My volunteering experience at the food pantry was a reminder of the different needs within our my neighborhood. It’s one thing to discuss homelessness, but it’s quite another to witness it firsthand from the new lens of "ranges of homelessness".
+
+`What was successful or least successful? Why?`
+
+<small>Something interesting I found while looking around is that many large organizations with merch partnerships tend to have somewhat low percentages of revenue going back to the organization. Smaller nonprofits tended to recieve upwards of 50% of the profits.</small> <a name="note1"></a> What was not as effective as I hoped was the personal donation button. I think having it for future use will be helpful, because it is reusable, but there were a lot of challenges with balancing the ease of use with the financial safety of asking people to donate through an online platform.
+
+`What might you do differently?`
+
+If I was going to redo these challenges, I might have replaced my volunteering challenge with something else where I could make local impact by creating my own community system and asking people to donate to that instead.
+
+`How will this challenge help you moving forward?`
+
+The main benefits of this challenge were that they gave me the opportunity to look into organizations that I would feel comfortable working with in the future. This also showed me that it wasn't as much of a problem make changes as I thought - a lot of organizations are dedicated to making grass-roots advocacy as easy as possible, and even the challenges that required me to be creative and come up with something original were more streamlined than I thought when I took the first step. This whole phase got me to ask how I can use my computer science skills to make a meaningful app related to combating homelessness.
+
+`What questions do you have after completing this challenge?`
+
+I have a few questions about effective strategies for combating homelessness locally, how to better plan and create a fundraising event, and how to get more involved in advocacy work outside of sending emails. Which nonprofits are "most effective"? How do I find that data? We've talked a lot about data driven strategies, but most of the time the conversation was made under the assumption that we led these non-profits, but as an outsider, how do I choose? 

@@ -34,6 +34,7 @@ const ProjectPage = (props) => {
     }
     return (        
         <div className=''>
+            <div class="gfm-embed" data-url="https://www.gofundme.com/f/mutual-aid-monday-zero-deaths-from-exposure/widget/medium"></div>
             <h1 className='text-2xl font-bold w-full text-center text-shadow text-[#4E4950] pb-8'>{project.data.title}</h1>
             <article className="prose-base ">
                 <Markdown 

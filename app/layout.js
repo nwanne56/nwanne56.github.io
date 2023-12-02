@@ -2,6 +2,13 @@ import Link from 'next/link';
 import { Inter } from 'next/font/google';
 import getNewestFileDate from '@/components/getNewestFileDate';
 
+import dynamic from 'next/dynamic'
+
+const DonationButton = dynamic(
+  () => import('../components/Donation'),
+  { ssr: false }
+)
+
 const inter = Inter({ subsets: ['latin'] });
 
 import './globals.css'
@@ -43,11 +50,14 @@ const footer = (
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className=" bg-neutral-200 ease-in-out duration-500">
+    <html lang="en" className=" bg-neutral-200 ease-in-out duration-500" suppressHydrationWarning>
       <body className={inter.className}>
         <div className='mx-auto max-w-5xl px-6'>
           {header}
           {children}
+          <div>
+            <DonationButton/>
+          </div>
           {footer}
         </div>
       </body>
