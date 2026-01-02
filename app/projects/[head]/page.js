@@ -3,6 +3,7 @@ import matter from 'gray-matter';
 import fs from 'fs';
 
 import getProjectData from '@/components/getProjectData';
+import OptInForm from '@/components/OptInForm';
 
 const getProjectContent = (head) => {
     const folder = 'projects/';
@@ -32,12 +33,12 @@ const ProjectPage = (props) => {
     if (project == "404") {
       return <div className='text-2xl font-bold w-full h-full text-center text-shadow text-[#4E4950] pb-8'>404</div>
     }
-    return (        
+    return (
         <div className=''>
-            <div class="gfm-embed" data-url="https://www.gofundme.com/f/mutual-aid-monday-zero-deaths-from-exposure/widget/medium"></div>
+            <div className="gfm-embed" data-url="https://www.gofundme.com/f/mutual-aid-monday-zero-deaths-from-exposure/widget/medium"></div>
             <h1 className='text-2xl font-bold w-full text-center text-shadow text-[#4E4950] pb-8'>{project.data.title}</h1>
             <article className="prose-base ">
-                <Markdown 
+                <Markdown
                     options={{
                         overrides: {
                           a: {
@@ -65,6 +66,9 @@ const ProjectPage = (props) => {
                     {project.content}
                 </Markdown>
             </article>
+            {project.data.showoptinform && project.data.workerurl && (
+                <OptInForm workerUrl={project.data.workerurl} />
+            )}
         </div>
     )
 };
